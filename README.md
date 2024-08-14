@@ -1,7 +1,11 @@
 **Name:** SHAIK SAMREEN
+
 **Company:** CODTECH IT SOLUTIONS
+
 **ID:** CT08DS6064
+
 **Domain:** Python Programming
+
 **Duration:** August to September 2024
 
 
